@@ -1,6 +1,10 @@
 # CompassMobile DollarTree
 
-CompassMobile DollarTree is a robust and user-friendly application designed to streamline your financial tracking experience. It enables users to efficiently record and manage their expenses while integrating seamlessly with DollarTree’s transaction records. The app provides an intuitive interface and powerful features to help users stay on top of their financial activities.
+CompassMobile DollarTree is a robust and user-friendly application designed to streamline your financial tracking experience. 
+It enables users to efficiently record and manage their expenses while integrating seamlessly with DollarTree’s transaction records. The app provides an intuitive interface and powerful features to help users stay on top of their financial activities.
+
+The CompassMobile DollarTree app allows users to efficiently record and manage their expenses, helping them stay on top of their financial activities.
+It integrates seamlessly with Dollar Tree’s transaction records, ensuring that all your purchases are automatically tracked. The CompassMobile DollarTree app is designed with an intuitive interface, making it easy for users to navigate and use its features.
 
 ## Features
 
@@ -34,7 +38,7 @@ CompassMobile DollarTree is a robust and user-friendly application designed to s
 
 1. **Clone the Repository:** 
    ```bash
-   git clone https://github.com/yourusername/compassmobile-dollartree.git
+   git clone https://github.com/dusty0649/compassmobile-dollartree.git
 
 2. **Navigate to the Project Directory**:
    ```bash
@@ -48,4 +52,17 @@ CompassMobile DollarTree is a robust and user-friendly application designed to s
    npm start
 5. **Open Your Browser**:
    Visit http://localhost:3000 to view the application.
-   
+
+## Contribution Guidelines
+We welcome contributions to CompassMobile DollarTree! To ensure a smooth process, please follow these guidelines:
+
+- **Fork the Repository**: Create a personal copy of the repository by forking it.
+- **Create a Branch**: Develop your feature or fix in a separate branch.
+- **Write Tests**: Ensure your changes are covered by tests.
+- **Document Your Changes**: Update relevant documentation to reflect your changes.
+- **Submit a Pull Request**: Open a pull request with a clear description of your changes.
+- Thank you for contributing!
+
+## Getting Help
+If you need assistance or have questions, please feel free to open an issue on the GitHub repository or reach out via email at dusty0649wetzel@outlook.com. Our community is always ready to help!
+
