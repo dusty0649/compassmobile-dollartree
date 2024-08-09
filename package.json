@@ -1,0 +1,23 @@
+{
+  "name": "compassmobile-dollartree",
+  "version": "1.0.0",
+  "description": "A financial tracking application integrated with DollarTree.",
+  "main": "src/index.js",
+  "scripts": {
+    "start": "webpack serve",
+    "build": "webpack",
+    "test": "jest"
+  },
+  "dependencies": {
+    "react": "^18.2.0",
+    "react-dom": "^18.2.0"
+  },
+  "devDependencies": {
+    "webpack": "^5.74.0",
+    "webpack-cli": "^5.0.0",
+    "babel-loader": "^8.2.5",
+    "jest": "^29.0.0"
+  },
+  "author": "Dusty Wetzel",
+  "license": "MIT"
+}
