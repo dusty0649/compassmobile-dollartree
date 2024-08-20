@@ -28,7 +28,7 @@ It integrates seamlessly with Dollar Tree’s transaction records, ensuring that
 
 - **Name**: Dusty Wetzel  
 - **Email**: dusty0649wetzel@outlook.com  
-- **Website**: CompassMobile DollarTree
+- **Website**: [CompassMobile DollarTree](https://www.dollartree-compass.com)
 - **Address**: 2579 Brownton Road Jonestown, MS 38639
 - Dusty Wetzel is a seasoned developer with a strong background in creating and managing web applications.
 - With years of experience in coding and software development, Dusty is known for expertise in modern web technologies and a passion for building user-centric applications.
